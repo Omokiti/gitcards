@@ -1,2 +1,0 @@
-# gitcards
-Created with CodeSandbox
